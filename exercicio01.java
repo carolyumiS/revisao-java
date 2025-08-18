@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Media {
+//pode ser necessário alterar o nome da classe
+public class Media { 
     public static void main(String[] args) {
         Scanner aluno = new Scanner(System.in);
 
@@ -28,3 +29,4 @@ public class Media {
         
     }
 }
+
