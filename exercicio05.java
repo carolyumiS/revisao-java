@@ -1,3 +1,4 @@
+//necessario alterar nome arquivo para Carro.java
 public class Carro {
     private String marca;
     private String modelo;
@@ -26,3 +27,4 @@ public class Carro {
         carroTeste.exibirInfo();
     }
 }
+
