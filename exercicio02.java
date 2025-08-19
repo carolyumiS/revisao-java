@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//pode ser necessário alterar o nome do arquivo/Classe
 public class Tabuada {
     public static void main(String[] args) {
         Scanner numero = new Scanner(System.in);
