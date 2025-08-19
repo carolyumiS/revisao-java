@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//pode ser necessário alterar o nome do arquivo/Classe
 public class Adivinhe {
     public static void main(String[] args) {
         System.out.printf("Tente adivinhar o número!%n%n");
