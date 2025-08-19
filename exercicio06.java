@@ -1,5 +1,6 @@
 import java.lang.Math;
 
+//necessario trocar nome do arquivo para Circulo.java
 public class Circulo {
     private double raio;
 
@@ -26,3 +27,4 @@ public class Circulo {
         System.out.println("Área: " + meuCirculo.calcularArea());
     }
 }
+
